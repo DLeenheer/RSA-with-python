@@ -9,3 +9,13 @@ The three main steps of the process are
 - Generating the public and private keys
 - Encoding the message
 - Decoding the message
+
+## Functions
+Go to the RSA.py section to see my functions. The general flow is 
+- Building blocks for the private and public keys (coverting the text to integers and the integers to strings)
+- FME function
+- Euclidean Algorith function
+- Public key function (uses the Euclidean function)
+- Private key function
+- Encode function
+- Decode function
